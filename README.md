@@ -10,4 +10,4 @@ Ensure the following are installed on your PC:
 - PIL for Python2(ver:1.1.7) <!-- : (command prompt: pip install pillow) -->
 - Mp3 play <!-- : (command prompt: pip install mp3play) -->
 ### Run
-To run, you simply need to run the 'Menu.py' file. This file initiates the whole app.
+To run, you simply need to run the 'Menu.py' file.
