@@ -1,7 +1,7 @@
 # Newt
 Newt is an educational app (built using python) geared to teach young learners Newtononian motion concepts. 
 ## Usage
-Download this repository on your PC. Open 'Program' folder and run 'Newt.exe'. Have fun exploring!
+Download this repository on your PC (Windows only for now). Open 'Program' folder and run 'Newt.exe'. Have fun exploring!
 ## Edit the Source Code
 ### Prerequisites
 Ensure the following are installed on your PC:
